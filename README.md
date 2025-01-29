@@ -39,6 +39,26 @@ pdflatex main.tex
     <img src="Assets/EAFIT_Version_01.png" alt="EAFIT_Version_01" width="250"/>
 </p>
 
+## Uploading to Overleaf EAFIT Latex Teamplate 
+
+1. **Clone the Repository**  
+
+   ```shell
+   git clone https://github.com/Youngermaster/LaTex-Note-Taking-Template
+   cd LaTex-Note-Taking-Template
+
+3. **Compress the Folder**
+
+   ```shell
+    zip -r EAFIT_Version.zip EAFIT_Version/
+
+Go to Overleaf
+Click on Upload Project
+Select EAFIT_Version.zip
+
+and you will have access to the template the eafit
+
+
 ## Acknowledgement
 
 I used this [LaTeX template](https://www.overleaf.com/latex/templates/report-template-v1-dot-0/xvtpxwgvmwyr) from **Kerr Beeldens** as a base for this one.
