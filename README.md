@@ -39,7 +39,7 @@ pdflatex main.tex
     <img src="Assets/EAFIT_Version_01.png" alt="EAFIT_Version_01" width="250"/>
 </p>
 
-## Uploading to Overleaf EAFIT Latex Teamplate 
+## Upload to Overleaf the EAFIT Latex Teamplate 
 
 1. **Clone the Repository**  
 
@@ -53,7 +53,9 @@ pdflatex main.tex
     zip -r EAFIT_Version.zip EAFIT_Version/
 
 Go to Overleaf
+
 Click on Upload Project
+
 Select EAFIT_Version.zip
 
 and you will have access to the template the eafit
