@@ -52,13 +52,13 @@ pdflatex main.tex
    ```shell
     zip -r EAFIT_Version.zip EAFIT_Version/
 
-Go to Overleaf
+Go to [Overleaf](https://www.overleaf.com/project)
 
 Click on Upload Project
 
 Select EAFIT_Version.zip
 
-and you will have access to the template the eafit
+and now you can use "Eafit LaTex-Note-Taking-Template" in Overleaf
 
 
 ## Acknowledgement
